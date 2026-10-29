@@ -1,0 +1,8 @@
+Ajithkumar & Ramya — Wedding Invitation
+
+Public URL: https://ajithkumar018.github.io/Invitation/
+
+GitHub Pages: Settings > Pages > Deploy from a branch > Main > / (root).
+Both index.html and invitation-preview.jpg must remain in the repository root.
+Paste the public URL into WhatsApp and wait for the preview before sending.
+WhatsApp controls preview caching and appearance.
